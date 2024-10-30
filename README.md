@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @dev-techfee
+- 👀 I'm interested in technology and finance
+- 🌱 I'm currently studying to become a full-stack developer
+- 📫 How to contact me via gmail: dev.techfee@gmail.com
